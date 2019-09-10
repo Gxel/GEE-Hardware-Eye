@@ -1,0 +1,7 @@
+D:\Quellcodes\Azubis\BBW_Hardware_Eye\dev\GEE Hardware Eye\GEE Hardware Eye\obj\Debug\GEE Hardware Eye.csprojAssemblyReference.cache
+D:\Quellcodes\Azubis\BBW_Hardware_Eye\dev\GEE Hardware Eye\GEE Hardware Eye\obj\Debug\MainWindow.g.cs
+D:\Quellcodes\Azubis\BBW_Hardware_Eye\dev\GEE Hardware Eye\GEE Hardware Eye\obj\Debug\App.g.cs
+D:\Quellcodes\Azubis\BBW_Hardware_Eye\dev\GEE Hardware Eye\GEE Hardware Eye\obj\Debug\BBW Hardware Eye_MarkupCompile.cache
+D:\Quellcodes\Azubis\BBW_Hardware_Eye\dev\GEE Hardware Eye\GEE Hardware Eye\obj\Debug\BBW Hardware Eye_MarkupCompile.lref
+D:\Quellcodes\Azubis\BBW_Hardware_Eye\dev\GEE Hardware Eye\GEE Hardware Eye\obj\Debug\BBW Hardware Eye.exe
+D:\Quellcodes\Azubis\BBW_Hardware_Eye\dev\GEE Hardware Eye\GEE Hardware Eye\obj\Debug\BBW Hardware Eye.pdb

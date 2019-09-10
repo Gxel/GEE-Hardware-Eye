@@ -1,0 +1,15 @@
+D:\Quellcodes\Azubis\BBW_Hardware_Eye\dev\BBW Hardware Eye\BBW Hardware Eye\obj\Debug\BBW Hardware Eye.csprojAssemblyReference.cache
+D:\Quellcodes\Azubis\BBW_Hardware_Eye\dev\BBW Hardware Eye\BBW Hardware Eye\obj\Debug\MainWindow.g.cs
+D:\Quellcodes\Azubis\BBW_Hardware_Eye\dev\BBW Hardware Eye\BBW Hardware Eye\obj\Debug\App.g.cs
+D:\Quellcodes\Azubis\BBW_Hardware_Eye\dev\BBW Hardware Eye\BBW Hardware Eye\obj\Debug\BBW Hardware Eye_MarkupCompile.cache
+D:\Quellcodes\Azubis\BBW_Hardware_Eye\dev\BBW Hardware Eye\BBW Hardware Eye\obj\Debug\BBW Hardware Eye_MarkupCompile.lref
+D:\Quellcodes\Azubis\BBW_Hardware_Eye\dev\BBW Hardware Eye\BBW Hardware Eye\bin\Debug\BBW Hardware Eye.exe.config
+D:\Quellcodes\Azubis\BBW_Hardware_Eye\dev\BBW Hardware Eye\BBW Hardware Eye\bin\Debug\BBW Hardware Eye.exe
+D:\Quellcodes\Azubis\BBW_Hardware_Eye\dev\BBW Hardware Eye\BBW Hardware Eye\bin\Debug\BBW Hardware Eye.pdb
+D:\Quellcodes\Azubis\BBW_Hardware_Eye\dev\BBW Hardware Eye\BBW Hardware Eye\obj\Debug\MainWindow.baml
+D:\Quellcodes\Azubis\BBW_Hardware_Eye\dev\BBW Hardware Eye\BBW Hardware Eye\obj\Debug\BBW Hardware Eye.g.resources
+D:\Quellcodes\Azubis\BBW_Hardware_Eye\dev\BBW Hardware Eye\BBW Hardware Eye\obj\Debug\BBW_Hardware_Eye.Properties.Resources.resources
+D:\Quellcodes\Azubis\BBW_Hardware_Eye\dev\BBW Hardware Eye\BBW Hardware Eye\obj\Debug\BBW Hardware Eye.csproj.GenerateResource.cache
+D:\Quellcodes\Azubis\BBW_Hardware_Eye\dev\BBW Hardware Eye\BBW Hardware Eye\obj\Debug\BBW Hardware Eye.csproj.CoreCompileInputs.cache
+D:\Quellcodes\Azubis\BBW_Hardware_Eye\dev\BBW Hardware Eye\BBW Hardware Eye\obj\Debug\BBW Hardware Eye.exe
+D:\Quellcodes\Azubis\BBW_Hardware_Eye\dev\BBW Hardware Eye\BBW Hardware Eye\obj\Debug\BBW Hardware Eye.pdb
